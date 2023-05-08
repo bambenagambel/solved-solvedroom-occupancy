@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedroom-occupancy
+<br>
+Create a class RoomOccupancy that can be used to record the number of people in the rooms of a building. The class has the attributes • numberInRoom—the number of people in a room• totalNumber—the total number of people in all rooms as a static variable The class has the following methods: • addOneToRoom—adds a person to the room and increases the value of totalNumber • removeOneFromRoom—removes a person from the room, ensuring that numberInRoom does not go below zero, and decreases the value of totalNumber as needed • getNumber—returns the number of people in the room • getTotal—a static method that returns the total number of people
